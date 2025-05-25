@@ -39,6 +39,8 @@ To preserve your saved content, Mozilla provides two primary export options:
 
 To assist with the transition, this script is available that utilizes the API to fetch your saved items in JSON format and converts them into browser bookmarks. This allows for seamless integration of your Pocket content into your preferred web browser, ensuring continued access to your saved articles.
 
+There are a few alternative apps that serve a similar purpose, although they are limited in number. One example is the app Matter (https://hq.getmatter.com/), which also allows users to import their favorites and saved content from Pocket via the API.
+
 For detailed instructions on exporting your data and to access the export tool, please visit Mozilla’s official support page: [Pocket is saying goodbye - What you need to know](https://support.mozilla.org/en-US/kb/future-of-pocket).
 
 It’s crucial to complete the export of your data before the October 8, 2025 deadline, as all user information will be irreversibly deleted after this date.
